@@ -7,4 +7,5 @@ title: "KIS!"
 ---
 
 
-Keep it simple!
+
+Keep it still simple!
