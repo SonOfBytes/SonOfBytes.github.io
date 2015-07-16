@@ -1,10 +1,9 @@
-baseurl: /
+baseurl: 'http://sonofbytes.github.io/'
 permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  site:
-  	url: 'http://sonofbytes.github.io/'
+  siteurl: 'http://sonofbytes.github.io/'
   relativeLinks: 'http://sonofbytes.github.io/links.jsonp'
   media: 'media'
   metadata:
