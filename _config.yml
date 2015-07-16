@@ -3,7 +3,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://sonofbytes.github.io/'
+  site:
+  	url: 'http://sonofbytes.github.io/'
   relativeLinks: 'http://sonofbytes.github.io/links.jsonp'
   media: 'media'
   metadata:
